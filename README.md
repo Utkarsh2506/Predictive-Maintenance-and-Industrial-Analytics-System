@@ -1,4 +1,4 @@
-# Smart Factory Predictive Maintenance Analytics
+# Predictive Maintenance & Industrial Analytics System
 
 ---
 
